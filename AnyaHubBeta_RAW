@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/anyahubs/Hub/main/anyahubV1.lua'))()
